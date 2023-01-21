@@ -30,6 +30,20 @@ Step 2: Check the folder with below command
 Step 3: Enter the script directory
 
     cd Evil-Droid
+    
+Step 4: then execute all files into this folder
+
+      chmod +x *
+      
+*** Important ***
+<br>
+This Framework need ROOT Permission with below command
+
+      sudo su
+
+Step 5: Run evil-droid framework
+ 
+      ./evil-droid
 
 
 
