@@ -30,20 +30,36 @@ Step 2: Check the folder with below command
 Step 3: Enter the script directory
 
     cd Evil-Droid
-    
+
+![Screenshot from 2023-01-21 08-50-05](https://user-images.githubusercontent.com/120317751/213841417-8a4d4eac-5e71-49c6-b9c0-b70697be14ec.png)
+
+
+
 Step 4: then execute all files into this folder
 
       chmod +x *
+      
+![Screenshot from 2023-01-21 08-55-47](https://user-images.githubusercontent.com/120317751/213841560-74d27588-9dfb-4b1d-bb31-c0fcaf7a2c60.png)
+
       
 *** Important ***
 <br>
 This Framework need ROOT Permission with below command
 
       sudo su
+      
+![Screenshot from 2023-01-21 09-02-25](https://user-images.githubusercontent.com/120317751/213841737-9a17719c-9bd7-4a3f-ade7-83b44ecb4984.png)
+
 
 Step 5: Run evil-droid framework
  
       ./evil-droid
+      
+ ![Screenshot from 2023-01-21 09-05-15](https://user-images.githubusercontent.com/120317751/213841815-0a984aa1-e4b7-4258-96f5-29c38e8aec70.png)
+ 
+ 
+ ![Screenshot from 2023-01-21 09-06-38](https://user-images.githubusercontent.com/120317751/213841864-d9475f80-bf0e-429c-89d6-c2d64dba0dc3.png)
+
 
 
 
