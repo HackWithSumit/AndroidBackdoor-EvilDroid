@@ -15,7 +15,7 @@ Fix: Signed Failed
 JDK Installation Required:
 <BR>
 
-   sudo apt-get install openjdk-17-jdk
+      sudo apt-get install openjdk-17-jdk
 
 <b>Installation Guide:</b>
 
