@@ -10,6 +10,13 @@ Evil-Droid is a framework that creates &amp; generates &amp; embed apk payload t
 2. Android Device
 <br>
 
+Fix: Signed Failed 
+
+JDK Installation Required:
+<BR>
+
+   sudo apt-get install openjdk-17-jdk
+
 <b>Installation Guide:</b>
 
 Step 1: 1st Download Script folder with below command
