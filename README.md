@@ -71,8 +71,7 @@ Step 5: Run evil-droid framework
 
 POC: (Installation & Exploit)
 <br>
-https://drive.google.com/drive/folders/1Rpizlde_uVvL7KtEhjnu3FFOnAUgzhCy?usp=share_link
-
+https://drive.google.com/file/d/1TNX2m3m4g2GeVeQhfxU3JRc3rABCemoE/view?usp=share_link
 
 
 
